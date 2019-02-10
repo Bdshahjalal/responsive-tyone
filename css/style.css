@@ -1,0 +1,105 @@
+/*font-family: 'PT Sans', sans-serif;*/
+body{
+	font-family: 'PT Sans', sans-serif;
+	color:#898989;
+}
+header{
+	background-color: #fcdb00;
+	padding:35px 0;
+}
+/*Navbar style start here*/
+.nav_padding{
+	padding:0;
+}
+.menubar{}
+.menubar ul li a{
+	padding:0 35px !important;
+	font-size: 22px;   
+    font-weight: 700;
+}
+/*Navbar style end here*/
+/*slider style start here*/
+
+.slider{
+	background-color: #fcdb00;
+	padding:30px 0;
+	padding-bottom:80px;
+}
+.slider_content{
+	padding:50px 0px;
+}
+.slider_content h1{
+	font-size:32px;
+	font-weight: 700;
+	color:#010101;
+	padding: 10px 0;
+}
+.slider_content h3{
+	font-size:20px;
+	font-weight: 400;
+	color:#313841;
+}
+.slider_content p{
+	font-size:16px;
+	font-weight: 400;
+	color:#555555;
+	padding: 15px 0;
+}
+.slider_content i{
+	font-size: 42px;
+    font-weight: 400;
+    color: #010101;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.c-indicators{
+	position: absolute;
+    bottom: -70px;
+}
+.c-indicators li {
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+/*slider style end here*/
+
+/*features style start here*/
+.features{
+	background-color:#ffffff;
+	padding-top:80px;
+}
+.features h1{
+	font-size:32px;
+	font-weight: 700;
+	color:#010101;
+	padding-top: 8px;
+}
+.features h3{
+	font-size:20px;
+	color:#313841;
+	font-weight: 400;
+	padding-bottom: 70px;
+
+}
+
+.icon{
+	font-size:50px;
+	color:#010101;
+	font-weight: 400;
+}
+.heading h2{	
+	font-size: 22px;
+    color: #010101;
+    font-weight: 400;
+    padding: 8px 0;
+}
+.text p{
+	font-size:16px;
+	color:#898989;
+	font-weight: 400;
+}
+.service_two{
+	margin: 70px 0;
+}
+/*features style end here*/
